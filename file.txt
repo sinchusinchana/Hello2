@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is FCBD-367E
+
+ Directory of C:\Users\Dell\Desktop\JOb2
+
+28-11-2021  20:15    <DIR>          .
+28-11-2021  20:15    <DIR>          ..
+28-11-2021  20:15                 0 file.txt
+28-11-2021  20:14               903 Hello2.class
+28-11-2021  20:02               237 Hello2.java
+               3 File(s)          1,140 bytes
+               2 Dir(s)  135,888,371,712 bytes free
